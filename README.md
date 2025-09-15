@@ -55,5 +55,3 @@ Open the URL Vite prints (likely http://localhost:5173).
 - Backend build: `cd backend && mvnw.cmd -DskipTests package`
 - Frontend dev: `cd frontend && npm run dev`
 
-## License
-MIT
